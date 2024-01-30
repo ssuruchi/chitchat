@@ -27,7 +27,7 @@ function Login() {
         if(localStorage.getItem('chat-user')){
             navigate('/')
         }
-    }, []);
+    }, [navigate]);
 
     const handleSubmit = async (event)=>{
         event.preventDefault();

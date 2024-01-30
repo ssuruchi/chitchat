@@ -30,7 +30,7 @@ export default function SetAvatar() {
       }
     }
     fetchData();
-  },[]);
+  },[navigate]);
 
   const setProfilePicture = async ()=>{
     if(selectedAvatar===undefined){
