@@ -5,9 +5,8 @@ ChitChat - A MERN Stack-based Real-Time Chat Application powered by Socket.IO fo
 This project is a fully functional real-time chat application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js) and Socket.IO for real-time communication. It showcases my ability to build scalable, responsive, and user-friendly applications for modern web use cases.
 
 🔑 Key Features:
-
-Real-Time Messaging: Send and receive messages instantly using WebSockets.
-User Authentication: Secure login and registration with hashed passwords.
+Real-Time Messaging: Send and receive messages instantly using WebSockets.\\
+User Authentication: Secure login and registration with hashed passwords.<br>
 Avatar Customization: Users can set and update their profile avatars.
 Scalable Backend: Built with Express.js and MongoDB for robust performance.
 Socket.IO Integration: Real-time communication for seamless chat functionality.
