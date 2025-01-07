@@ -1,5 +1,5 @@
 # Chitchat
-**ChitChat** - A **MERN** Stack-based Real-Time Chat Application powered by Socket.IO for seamless user communication.
+A **MERN** Stack-based Real-Time Chat Application powered by Socket.IO for seamless user communication.
 
 👋 **About This Project** <br>
 This project is a fully functional real-time chat application built using the MERN Stack (MongoDB, Express.js, React.js, Node.js) and Socket.IO for real-time communication. It showcases my ability to build scalable, responsive, and user-friendly applications for modern web use cases.
