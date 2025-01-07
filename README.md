@@ -6,5 +6,8 @@ ChitChat is a platform for users to communicate  using the chat application.
 
 ![image](https://github.com/user-attachments/assets/67bc19a1-bfbf-4353-bd07-a0718608a75b)
 
+![image](https://github.com/user-attachments/assets/4939b4b6-45ba-4f15-b12a-e1e14d768955)
+
+
 
 
