@@ -10,7 +10,7 @@ User Authentication: Secure login and registration with hashed passwords.<br>
 Avatar Customization: Users can set and update their profile avatars.<br>
 Scalable Backend: Built with Express.js and MongoDB for robust performance.<br>
 Socket.IO Integration: Real-time communication for seamless chat functionality.<br>
-This project highlights my skills in building scalable backends, designing efficient REST APIs, and integrating real-time communication frameworks.<br>
+This project highlights my skills in building scalable backends, designing efficient REST APIs, and integrating real-time communication framework.<br>
 
 🛠️ **Tech Stack**<br>
 MongoDB -	Database for storing users and messages.<br>
